@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WallPaper-react/static/css/main.d5289b2f.css",
+    "main.js": "/WallPaper-react/static/js/main.181fdd4c.js",
+    "static/media/logo.png": "/WallPaper-react/static/media/logo.a97d8876c484af7e787e.png",
+    "index.html": "/WallPaper-react/index.html",
+    "main.d5289b2f.css.map": "/WallPaper-react/static/css/main.d5289b2f.css.map",
+    "main.181fdd4c.js.map": "/WallPaper-react/static/js/main.181fdd4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.181fdd4c.js"
+  ]
+}
